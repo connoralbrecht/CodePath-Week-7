@@ -11,7 +11,7 @@ Time spent: **12** hours spent in total
     - Vulnerability types: Cross-Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/connoralbrecht/CodePath-Week-7/blob/master/test.gif
   - [ ] Steps to recreate: https://klikki.fi/adv/wordpress3.html
   - [ ] Affected source code: https://wpvulndb.com/vulnerabilities/8111
 2. Unauthenticated Genericons Cross-Site Scripting (XSS)
@@ -19,7 +19,7 @@ Time spent: **12** hours spent in total
     - Vulnerability types: Cross-Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/connoralbrecht/CodePath-Week-7/blob/master/gener.gif
   - [ ] Steps to recreate: https://codex.wordpress.org/Version_4.2.2
   - [ ] Affected source code: https://wpvulndb.com/vulnerabilities/7979
 3. Authenticated Shortcode Tags Cross-Site Scripting (XSS)
@@ -27,7 +27,7 @@ Time spent: **12** hours spent in total
     - Vulnerability types: Cross-Site Scripting
     - Tested in version: 4.2
     - Fixed in version: 4.2.5
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: https://github.com/connoralbrecht/CodePath-Week-7/blob/master/short%20code.gif
   - [ ] Steps to recreate: http://blog.knownsec.com/2015/09/wordpress-vulnerability-analysis-cve-2015-5714-cve-2015-5715/
   - [ ] Affected source code: https://wpvulndb.com/vulnerabilities/8186
 
